@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "base-model",
   "main": "index.js",
+   "private": false,
   "bin": {
     "base-model": "bin/index.js"
   },
