@@ -29,5 +29,12 @@
   "bugs": {
     "url": "https://github.com/mongodb-model/base-model/issues"
   },
-  "homepage": "https://github.com/mongodb-model/base-model#readme"
+  "homepage": "https://github.com/mongodb-model/base-model#readme",
+  "dependencies": {
+    "@mongodb-model/couleurs": "../couleurs",
+    "@mongodb-model/db-migrate": "../db-migrate",
+    "@mongodb-model/db-migration": "../db-migration",
+    "@mongodb-model/man": "../man",
+    "@mongodb-model/schema": "../schema"
+  }
 }

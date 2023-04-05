@@ -18,7 +18,7 @@
 
 const Man = require("@mongodb-model/man");
 const Couleur = require("@mongodb-model/couleurs");
-const Method = require("@mongodb-model/method");
+// const Method = require("@mongodb-model/method");
 
 
 const MongoTransform = require("../");
